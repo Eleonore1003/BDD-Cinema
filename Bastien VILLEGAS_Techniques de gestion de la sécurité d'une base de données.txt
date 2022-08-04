@@ -5,5 +5,6 @@ Refuser les connexions distantes
 Supprimer les comptes inutiles.
 Supprimer la base de données d’exemple.
 Chiffrer les données stockées avec chiffrement des donnees avec la methode asymetrique type RSA.
+Techniques de gestion de la sécurité : Droits d'accès à la base de données restreints en fonction du rôle : accès en lecture et écriture sur l'ensemble de la base pour les administrateurs, accès en écriture sur un seul cinéma pour l'utilisateur spécifique à chaque cinema.
 
 
