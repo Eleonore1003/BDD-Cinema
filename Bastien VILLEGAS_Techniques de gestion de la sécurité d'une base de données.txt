@@ -4,6 +4,6 @@ Changer le mot de passe par défaut.
 Refuser les connexions distantes
 Supprimer les comptes inutiles.
 Supprimer la base de données d’exemple.
-Chiffrer les données stockées.
+Chiffrer les données stockées avec chiffrement des donnees avec la methode asymetrique type RSA.
 
 
