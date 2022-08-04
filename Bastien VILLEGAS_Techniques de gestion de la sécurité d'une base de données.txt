@@ -1,0 +1,9 @@
+****techniques de gestion de la sécurité d'une base de données***
+
+Changer le mot de passe par défaut.
+Refuser les connexions distantes
+Supprimer les comptes inutiles.
+Supprimer la base de données d’exemple.
+Chiffrer les données stockées.
+
+
